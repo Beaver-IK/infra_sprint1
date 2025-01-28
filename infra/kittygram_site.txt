@@ -1,0 +1,5 @@
+IP: 84.201.178.240;
+name_taski: https://soso.myftp.biz;
+name_kittygram: https://instakittygram.ddns.net;
+login: admin;
+password: admin;
